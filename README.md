@@ -21,6 +21,7 @@ be on any web server or even local file system.
 
 ## How To Contribute
 
+Please fork this repository and then issue Pull request for review.
 ###CopyRight
 
  2020Git.Training
