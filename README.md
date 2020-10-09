@@ -24,4 +24,4 @@ be on any web server or even local file system.
 Please fork this repository and then issue Pull request for review.
 ###CopyRight
 
- 2020Git.Training
+ 2019Git.Training
