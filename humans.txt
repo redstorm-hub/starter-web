@@ -2,9 +2,9 @@
 # The humans responsible & technology colophon
 
 # TEAM
-
-    <name> -- <role> -- <twitter>
-
+   
+   Redstorm redstorm@gmail.com
+   
 # THANKS
 
     <name>
