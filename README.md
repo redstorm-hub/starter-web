@@ -26,4 +26,4 @@ Again Please fork this repository and then issue Pull request for review.
 
 ###CopyRight
 
- 2019Git.Training
+ 2019Git.Training All right reserved!
